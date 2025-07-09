@@ -66,7 +66,7 @@ Hầu hết ứng dụng upload ảnh dùng server backend riêng, gây ra:
 ## 3. 🏗️ Kiến trúc giải pháp 
 
 ### 🧱 Sơ đồ kiến trúc tổng quan
-![Diagran](diagram.png)
+![Diagran](Screenshot%202025-07-09%20171511.png)
 
 ### 🧩 Lựa chọn dịch vụ AWS
 - **Amazon S3**: Lưu trữ ảnh gốc.
